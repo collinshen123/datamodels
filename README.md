@@ -9,4 +9,4 @@ Info 330
 * Amazon Dynamo DB: amazonDynamoDB.md
 * Google Cloud Firestone: googleCloudFirestone.md
 * IBM Information Management System: IBMInformationManagementSystem.md
-* Cognos PowerHouse: cognosPowerhouse.md
+* Extra Credit - Cognos PowerHouse: cognosPowerhouse.md
