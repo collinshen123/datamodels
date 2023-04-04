@@ -11,4 +11,7 @@ It can be used in a client/server model where clients access PowerHouse applicat
 How Java or Python access it: Cognos PowerHouse does not have a native API for Java or Python. 
 However, it can interface with Java and Python applications through ODBC/JDBC drivers that provide connectivity to relational databases.
 
-A Network Database Management System (NDBMS) is a type of database management system that uses a network data model for storing and retrieving data. In a network model, data is represented as records and sets of related records are linked together using pointers, forming a complex network of relationships. This is different from other data models such as hierarchical, relational, and object-oriented, which use different structures for organizing and representing data.
+A Network Database Management System (NDBMS) is a type of database management system that uses a network data model for storing and retrieving data. In a 
+network model, data is represented as records and sets of related records are linked together using pointers, forming a complex network of relationships.  
+This is different from other data models such as hierarchical, relational, and object-oriented, which use different structures for organizing and 
+representing data.
