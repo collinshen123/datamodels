@@ -1,7 +1,7 @@
 # Datamodels
 Info 330 
 
-*Oracle Databases: oracleDatabase.md
+* Oracle Databases: oracleDatabase.md
 *Microsoft SQL Server: microsoftSQLServer.md
 *MongoDB: mongoDB.md
 *ObjectDB: objectDB.md
